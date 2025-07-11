@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "aden",
-    "slug": "aden",
+    "name": "AAA",
+    "slug": "AAA",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "aden",
+    "scheme": "movies",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
